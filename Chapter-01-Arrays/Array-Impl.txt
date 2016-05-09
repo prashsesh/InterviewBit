@@ -1,0 +1,2 @@
+//Lets say performOps was called with A : [5, 10, 2, 1]
+5 10 2 1 5 1 2 10
